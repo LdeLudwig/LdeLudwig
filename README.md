@@ -1,7 +1,7 @@
 <h2>🗲 Opa! Eu sou o Lucas Xavier</h2>
   
-  - 🎓 Atualmente me graduando em Engenharia de Controle e Automação na UFSC campus Blumenau 
-  - 💻 Estudando programação Web!! 
+  - 🎓 Atualmente me graduando em Engenharia de Controle e Automação na UFSC campus Blumenau e realizando um intercâmbio no IST- Lisboa em Engenharia Eletrotécnica e de Computadores
+  - 💻 Estudando programação Web e análise de dados!! 
   - 🔭 Em busca do primeiro estágio e/ou vaga na área de tecnologia e engenharia 
   
 <div style="display: inline_block"><br>

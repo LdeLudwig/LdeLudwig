@@ -1,8 +1,8 @@
-<h2>🗲 Opa! Eu sou o Lucas Xavier</h2>
-  
-  - 🎓 Atualmente me graduando em Engenharia de Controle e Automação na UFSC campus Blumenau e realizando um intercâmbio no IST- Lisboa em Engenharia Eletrotécnica e de Computadores
-  - 💻 Estudando programação Web e análise de dados!! 
-  - 🔭 Em busca do primeiro estágio e/ou vaga na área de tecnologia e engenharia 
+<h2>🗲 Hi! I'm Lucas Xavier</h2>
+Graduating in Automation and Control Engineering at UFSC Blumenau's campus and recently doing a exchange program at Instituto Superior Técnico in Lisbon. Enthusiastic on developing automation solutions integrated with AI to help people and business save time and improve produtivity! Nowdays looking for the first opotunity as intern to finish my graduation and start my own business. 
+
+This is my personal github to post my case projects and serve as mt portfolio projects repository :)
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +14,7 @@
   
   
   
-  
+If you want to contact me, fell free to send me a message on:
 <div>
   <a href="https://www.instagram.com/lucasxavsk8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:borgesbfx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

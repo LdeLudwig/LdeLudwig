@@ -1,7 +1,7 @@
 <h2>🗲 Hi! I'm Lucas Xavier</h2>
 Graduating in Automation and Control Engineering at UFSC Blumenau's campus and recently doing a exchange program at Instituto Superior Técnico in Lisbon. Enthusiastic on developing automation solutions integrated with AI to help people and business save time and improve produtivity! Nowdays looking for the first opotunity as intern to finish my graduation and start my own business. 
 
-This is my personal github to post my case projects and serve as mt portfolio projects repository :)
+This is my personal github to post my case projects and serve as my portfolio projects repository :)
 
   
 <div style="display: inline_block"><br>

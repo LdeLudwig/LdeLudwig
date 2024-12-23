@@ -1,7 +1,7 @@
 <h2>🗲 Hi! I'm Lucas Xavier</h2>
 Graduating in Automation and Control Engineering at UFSC Blumenau's campus. Enthusiastic on developing automation solutions integrated with AI to help people and business save time and improve produtivity! Nowadays working as intern for Elligence Soluções em Tecnologia, in Brazil, focused on building modern web app with efficient data pipelines, big data and machine learning solucions.
 
-For more information access website: http://www.elligence.com.br/
+For more information access: http://www.elligence.com.br/
 
 This is my personal github to post my case projects and serve as my portfolio projects repository :)
 

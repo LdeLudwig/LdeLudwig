@@ -1,7 +1,5 @@
 <h1>🗲 Hi! I'm Lucas Xavier</h1>
-Graduating in Automation and Control Engineering at UFSC Blumenau's campus. Enthusiastic on developing automation solutions integrated with AI to help people and business to save time and improve produtivity! Nowadays working as intern for Elligence Soluções em Tecnologia, in Brazil, focused on building modern web app with efficient data pipelines, big data and machine learning solutions.
-
-For more information access: http://www.elligence.com.br/
+Graduating in Automation and Control Engineering at UFSC Blumenau's campus. Enthusiastic on developing automation solutions integrated with AI to help people and business to save time and improve produtivity! Nowadays working as a Full Stack developer.
 
 This is my personal github to post my case projects and serve as my portfolio projects repository :)
 
@@ -23,9 +21,8 @@ This is my personal github to post my case projects and serve as my portfolio pr
   
   
   
-If you want to contact me, fell free to send me a message on:
+Please, reach me at:
 <div>
-  <a href="https://www.instagram.com/lucasxavsk8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:borgesbfx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasbfx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>

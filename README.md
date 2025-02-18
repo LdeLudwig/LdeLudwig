@@ -21,7 +21,7 @@ Beyond coding, I find balance in skateboarding, which fuels my creativity and fo
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
   <img align="center" alt="Django" height="30" width="40" src="https://devicons.railway.com/i/django.svg">
   <img align="center" alt="Vue" height="30" width="40" src="https://devicons.railway.com/i/vuejs.svg">
   <img align="center" alt="Postgres" height="30" width="40" src="https://devicons.railway.com/i/postgresql.svg">
@@ -31,17 +31,11 @@ Beyond coding, I find balance in skateboarding, which fuels my creativity and fo
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://devicons.railway.com/i/arduino.svg">
-</div>
+</div><br>
 
----  
-
-### :fire: My stats :
 
 <div align="center"">
   <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LdeLudwig&layout=compact&theme=vision-friendly-dark" />  
-  </div>
-  <div style="margin-top: 15px">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=LdeLudwig&theme=dark&background=000000"/>     
   </div>
 </div>

@@ -22,15 +22,18 @@ Beyond coding, I find balance in skateboarding, which fuels my creativity and fo
 
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Django" height="30" width="40" src="https://devicons.railway.com/i/django.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://devicons.railway.com/i/vuejs.svg">
-  <img align="center" alt="Postgres" height="30" width="40" src="https://devicons.railway.com/i/postgresql.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://devicons.railway.com/i/docker.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://devicons.railway.com/i/arduino.svg">
+  <img margin-right="3" align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img margin-right="3" align="center" alt="Django" height="40" width="40" src="https://devicons.railway.com/i/django.svg">
+  <img margin-right="3" align="center" alt="FastAPI" height="40" width="40" src="https://devicons.railway.com/i/fastapi.svg">
+  <img margin-right="3" align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img margin-right="3" align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img margin-right="3" align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img margin-right="3" align="center" alt="Vue" height="40" width="40" src="https://devicons.railway.com/i/vuejs.svg">
+  <img margin-right="3" align="center" alt="Postgres" height="40" width="40" src="https://devicons.railway.com/i/postgresql.svg">
+  <img margin-right="3" align="center" alt="Git" height="40" width="40" src="https://devicons.railway.com/i/git.svg">
+  <img margin-right="3" align="center" alt="Linux" height="40" width="40" src="https://devicons.railway.com/i/linux.svg">
+  <img margin-right="3" align="center" alt="Docker" height="40" width="40" src="https://devicons.railway.com/i/docker.svg">
+  <img margin-right="3" align="center" alt="Vim" height="40" width="40" src="https://devicons.railway.com/i/vim.svg">
 </div><br>
 
 

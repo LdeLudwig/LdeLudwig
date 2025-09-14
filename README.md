@@ -7,12 +7,12 @@
 </h1>
 
 ### :man_technologist: About Me :
-<p align="center">
-🚀 AI Full Stack Developer @ Agilize  
-🎓 Finishing Control & Automation Engineering (UFSC)  
-💻 Building scalable apps with a focus on AI  
-🛹 Skateboarder 
-</p>
+<div align="center" style="display: flex; flex-direction: column; gap: 6px;">
+  🚀 AI Full Stack Developer @ Agilize  
+  🎓 Finishing Control & Automation Engineering (UFSC)  
+  💻 Building scalable apps with a focus on AI  
+  🛹 Skateboarding keeps me balanced and creative  
+</div>
 
 ---
 

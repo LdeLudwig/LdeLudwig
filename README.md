@@ -11,7 +11,7 @@
   <p>🚀 AI Full Stack Developer @ Agilize</p>  
   <p>🎓 Finishing Control & Automation Engineering (UFSC)</p>  
   <p>💻 Building scalable apps with a focus on AI</p>  
-  <p>🛹 Skateboarding keeps me balanced and creative</p>  
+  <p>🛹 Skateboarder</p>  
 </div>
 
 ---

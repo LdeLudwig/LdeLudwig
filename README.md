@@ -7,8 +7,12 @@
 </h1>
 
 ### :man_technologist: About Me :
-<p align="center">I’m a Full Stack Developer with a passion for building practical and impactful solutions. Currently, I’m completing my Control and Automation Engineering degree at the Federal University of Santa Catarina (UFSC). My journey into software development began in 2024 when I joined a startup as a remote intern, gaining hands-on experience in developing efficient and scalable applications.
-Beyond coding, I find balance in skateboarding, which fuels my creativity and focus. I’m always eager to tackle new challenges, refine my problem-solving skills, and create technology that streamlines work and enhances everyday experiences.</p>
+<p align="center">
+🚀 AI Full Stack Developer @ Agilize  
+🎓 Finishing Control & Automation Engineering (UFSC)  
+💻 Building scalable apps with a focus on AI  
+🛹 Skateboarder 
+</p>
 
 ---
 
@@ -19,22 +23,6 @@ Beyond coding, I find balance in skateboarding, which fuels my creativity and fo
 </div><br>
 
 ---
-
-### :hammer_and_wrench: Languages and Tools :
-<div style="display: inline_block" align="center">
-  <img margin-right="3" align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img margin-right="3" align="center" alt="Django" height="40" width="40" src="https://devicons.railway.com/i/django.svg">
-  <img margin-right="3" align="center" alt="FastAPI" height="40" width="40" src="https://devicons.railway.com/i/fastapi.svg">
-  <img margin-right="3" align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img margin-right="3" align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img margin-right="3" align="center" alt="Vue" height="40" width="40" src="https://devicons.railway.com/i/vuejs.svg">
-  <img margin-right="3" align="center" alt="Postgres" height="40" width="40" src="https://devicons.railway.com/i/postgresql.svg">
-  <img margin-right="3" align="center" alt="Git" height="40" width="40" src="https://devicons.railway.com/i/git.svg">
-  <img margin-right="3" align="center" alt="Linux" height="40" width="40" src="https://devicons.railway.com/i/linux.svg">
-  <img margin-right="3" align="center" alt="Docker" height="40" width="40" src="https://devicons.railway.com/i/docker.svg">
-  <img margin-right="3" align="center" alt="Vim" height="40" width="40" src="https://devicons.railway.com/i/vim.svg">
-</div><br>
-
 
 <div align="center"">
   <div>

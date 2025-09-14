@@ -7,7 +7,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-<div align="center" style="display: flex; flex-direction: column; gap: 6px;">
+<div style="display: flex; flex-direction: column; gap: 6px;">
   🚀 AI Full Stack Developer @ Agilize  
   🎓 Finishing Control & Automation Engineering (UFSC)  
   💻 Building scalable apps with a focus on AI  

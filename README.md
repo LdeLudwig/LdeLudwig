@@ -51,15 +51,3 @@
 ![Streak](./profile/streak.svg)
 
 </div>
-
-
----
-
-
-<p align="center">
-  <img width="700" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=ldeludwig&theme=dark&stats=true&credit=true"></img>
-</p>
-
-<p align="center">
- <sup>(365 days graph)</sup>
-</p>

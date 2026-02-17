@@ -9,7 +9,7 @@
 ### :man_technologist: About Me :
 <div>
   <p>🚀 AI Full Stack Developer @ Agilize</p>  
-  <p>🎓 Finishing Control & Automation Engineering (UFSC)</p>  
+  <p>🎓 Control & Automation Engineer</p>  
   <p>💻 Building scalable apps with a focus on AI</p>  
   <p>🛹 Skateboarder</p>  
 </div>
@@ -24,8 +24,42 @@
 
 ---
 
-<div align="center"">
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LdeLudwig&layout=compact&theme=vision-friendly-dark" />  
-  </div>
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="./profile/stats.svg" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="./profile/top-langs.svg" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
 </div>
+
+
+---
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+![Streak](./profile/streak.svg)
+
+</div>
+
+
+---
+
+
+<p align="center">
+  <img width="700" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=ldeludwig&theme=dark&stats=true&credit=true"></img>
+</p>
+
+<p align="center">
+ <sup>(365 days graph)</sup>
+</p>

@@ -22,32 +22,3 @@
   <a href="https://www.linkedin.com/in/lucasbfx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img src="./profile/stats.svg" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="./profile/top-langs.svg" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-
----
-
-### 🔥 Contribution Streak
-
-<div align="center">
-
-![Streak](./profile/streak.svg)
-
-</div>

@@ -8,8 +8,8 @@
 
 ### :man_technologist: About Me :
 <div>
-  <p>🚀 AI Full Stack Developer @ Agilize</p>  
-  <p>🎓 Control & Automation Engineer</p>  
+  <p>🚀 AI Engineer @ Agilize</p>  
+  <p>🎓 Degree in Control & Automation Engineer Degree </p>  
   <p>💻 Building scalable apps with a focus on AI</p>  
   <p>🛹 Skateboarder</p>  
 </div>
